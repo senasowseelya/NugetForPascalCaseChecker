@@ -1,0 +1,11 @@
+C:\Projects\PascalCaseChecker\PascalCaseChecker\bin\Debug\net7.0\PascalCaseChecker.deps.json
+C:\Projects\PascalCaseChecker\PascalCaseChecker\bin\Debug\net7.0\PascalCaseChecker.dll
+C:\Projects\PascalCaseChecker\PascalCaseChecker\bin\Debug\net7.0\PascalCaseChecker.pdb
+C:\Projects\PascalCaseChecker\PascalCaseChecker\obj\Debug\net7.0\PascalCaseChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PascalCaseChecker\PascalCaseChecker\obj\Debug\net7.0\PascalCaseChecker.AssemblyInfoInputs.cache
+C:\Projects\PascalCaseChecker\PascalCaseChecker\obj\Debug\net7.0\PascalCaseChecker.AssemblyInfo.cs
+C:\Projects\PascalCaseChecker\PascalCaseChecker\obj\Debug\net7.0\PascalCaseChecker.csproj.CoreCompileInputs.cache
+C:\Projects\PascalCaseChecker\PascalCaseChecker\obj\Debug\net7.0\PascalCaseChecker.dll
+C:\Projects\PascalCaseChecker\PascalCaseChecker\obj\Debug\net7.0\refint\PascalCaseChecker.dll
+C:\Projects\PascalCaseChecker\PascalCaseChecker\obj\Debug\net7.0\PascalCaseChecker.pdb
+C:\Projects\PascalCaseChecker\PascalCaseChecker\obj\Debug\net7.0\ref\PascalCaseChecker.dll
